@@ -1,12 +1,12 @@
 # Land Cover Change Analysis (2013-2023)
 
-#Land Cover 2013
+Land Cover 2013
 ![Land Cover 2013](2013.png)
 
-#Land Cover 2023
+Land Cover 2023
 ![Land Cover 2023](2023.png)
 
-#Land Cover Changes 2013 vs 2023
+Land Cover Changes 2013 vs 2023
 ![Land Cover 2013 vs 2023](2013%20vs%202023.png)
 Project Description
 This project analyzes land cover changes between 2013 and 2023 using LandSat satellite imagery. The analysis compares different vegetation types, urban areas, and water reservoirs to understand how land use has transformed over a decade.
